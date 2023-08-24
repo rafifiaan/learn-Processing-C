@@ -1,4 +1,4 @@
-# Learn Processing - Get files and processing in various forms using C Languages
+# Processing - Get files and processing in various forms using C Languages
 
 ## **Documentation In *Bahasa (ID/INA)***
 
@@ -305,7 +305,4 @@ Penjelasan :
 - `zipDir(...)` merupakan proses fungsi dijalankan setelah melewati conditional statements
 - Setelah proses zip selesai, akan mengeluarkan pesan `"Selamat! Proses Zip folder berhasil"` dan program selesai. 
 
-### Obstacles
-- Sempat eror ketika melakukan proses `unzip`
-- Pada saat melakukan proses random pick file pernah bahwa file diluar `.jpg` ikut terpilih seperti `binatang.zip` tetapi kejadian berikut hanya berlangsung sekali-dua kali saja. Setelahnya solved.
-- Pada saat melakukan proses `zip` pernah kejadian `sekali` kalau hasil `zip` tidak keluar
+***Thank you for visiting this repository, stay tuned for more projects!***
